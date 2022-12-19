@@ -45,7 +45,6 @@ require (
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hcl/v2 v2.15.0
 	github.com/hashicorp/terraform-plugin-framework v1.0.0
-	github.com/hashicorp/terraform-plugin-framework-timeouts v0.2.0
 	github.com/hashicorp/terraform-plugin-framework-validators v0.8.0
 	github.com/hashicorp/terraform-plugin-go v0.14.2
 	github.com/hashicorp/terraform-plugin-log v0.7.0
